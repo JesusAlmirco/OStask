@@ -1,0 +1,1 @@
+Windows Command  check OS, memory and process information.
